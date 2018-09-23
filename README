@@ -2,7 +2,7 @@
  Refer to http://source.android.com/source/downloading.html
  $ repo init -u https://android.googlesource.com/platform/manifest -b android-6.0.1_r81
  $ cd .repo
- $ git clone https://github.com/peyo-hd/local_manifests -b marshmallow
+ $ git clone https://github.com/adelyser/local_manifests -b marshmallow
  $ repo sync
 
 # Build for RaspberryPi 2
